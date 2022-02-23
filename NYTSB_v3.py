@@ -1,7 +1,5 @@
-#trial changes more changes
 import os
-#os.chdir('G:/My Drive/EverythingElseBackup/Python_fun_projects/NYT_SB/')
-#os.chdir('/Volumes/GoogleDrive/My Drive/EverythingElseBackup/Python_fun_projects/NYT_SB/')
+#os.chdir('your dir here')
 import numpy as np
 import pandas as pd
 import string
