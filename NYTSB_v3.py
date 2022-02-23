@@ -1,6 +1,3 @@
-#this is version 2
-#some new changes below
-#some more
 import os
 #os.chdir('G:/My Drive/EverythingElseBackup/Python_fun_projects/NYT_SB/')
 #os.chdir('/Volumes/GoogleDrive/My Drive/EverythingElseBackup/Python_fun_projects/NYT_SB/')
