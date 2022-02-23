@@ -2,7 +2,7 @@
 A command-line based New York Times Spell Bee game with Scrabble dictionary (sowpods.txt). 
 
 To play:
-1. Download/clone the NYT_SB_v3.py and sowpods.txt file to your directory.
+1. Download/clone the NYTSB_v3.py and sowpods.txt file to your directory.
 2. Change the working directory in the os.chdir line 2
 3. Play!
 
